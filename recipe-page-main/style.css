@@ -1,4 +1,50 @@
-{font-size: 11px; 
-text-align: center; }
 
- { color: hsl(228, 45%, 44%); }
+
+h2{ 
+    color: #7B4537; 
+}
+
+
+ img {
+max-width: 100%;
+height: auto;
+border: white;
+border-radius: 10px;
+ }
+
+body {
+background-color:#F3E6D7 ;
+}
+
+.box {
+    width: 600px;
+    height: fit-content;
+    border: white ;
+    border-radius: 10px;
+    background-color: white;
+    padding: 30px ;
+    margin-left: 400px;
+    line-height: 2;
+
+}
+
+.prep-box {
+max-width: 700px;
+background-color: #FFF7FB;
+padding:  10px;
+line-height: 2;
+}
+
+.ingr-dot {
+    color:  #7B4537;  ;
+}
+
+.test{
+padding-left: 200px;
+}
+
+.attribution {
+font-size: 11px;
+color: #000f33;
+text-align: center;
+}
